@@ -1,0 +1,14 @@
+const BOOKING_TYPE ={
+    FULL_DAY:"FULL_DAY",
+    HALF_DAY:"HALF_DAY",
+    CUSTOM:"CUSTOM"
+}
+
+const BOOKING_SLOT ={
+    FIRST_HALF:"FIRST_HALF",
+    SECOND_HALF:"SECOND_HALF"
+}
+module.exports ={
+    BOOKING_TYPE,
+    BOOKING_SLOT
+}
